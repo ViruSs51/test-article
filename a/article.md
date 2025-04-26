@@ -211,6 +211,8 @@ import imutils
    plt.title('Bilateral Filter')
    plt.show()
    ```
+   __Output:__
+    ![image](img/image9.png)
 
 ### Детектирование границ <a id="edge-detection"></a> [&#129093;](#implementation-lpnd)
 
@@ -230,6 +232,8 @@ import imutils
    plt.title('Edge Detection')
    plt.show()
    ```
+   __Output:__
+    ![image](img/image10.png)
 
 ### Поиск контуров <a id="finding-contours"></a> [&#129093;](#implementation-lpnd)
 
@@ -257,7 +261,7 @@ import imutils
            break
    print(location)
    ```
-
+__Output:__
 ![image](img/image11.png)
 
 ### Отметка номерного знака <a id="marking-number-plate"></a> [&#129093;](#implementation-lpnd)
@@ -285,7 +289,7 @@ import imutils
    plt.title('Masked Image')
    plt.show()
    ```
-
+__Output:__
 ![image](img/image12.png)
 
 ### Выделение номерного знака <a id="extract-number-plate"></a> [&#129093;](#implementation-lpnd)
@@ -311,7 +315,7 @@ import imutils
    plt.title('Cropped Image')
    plt.show()
    ```
-
+__Output:__
 ![image](img/image13.png)
 
 ---
